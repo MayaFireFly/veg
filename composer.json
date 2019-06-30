@@ -1,0 +1,21 @@
+{
+    "name": "maya/veg",
+    "description": "Test work with composer",
+    "type": "library",
+    "require": {
+        "php": ">5.1"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Maya Tetenkina",
+            "email": "maya_isb@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "maya\\veg\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

@@ -1,5 +1,5 @@
 <?php
-namespace app\components;
+namespace maya\veg;
 
 use yii\base\Widget;
 
