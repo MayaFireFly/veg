@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class VegInitAsset extends AssetBundle
 {
-    public $sourcePath = '@app/components';
+    public $sourcePath = '@vendor/maya/veg/src';
     public $css = [        
     ];
     public $js = [
